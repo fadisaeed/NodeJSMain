@@ -1,3 +1,7 @@
+//פאדי סעיד
+//ראזי אבו אליונס
+
+// Counts how many of the numbers 2, 3, and 5 divide num evenly without using if statements
 const num=123;
 
 const answer1=+(num%2==0||num%3==0||num%5==0);
