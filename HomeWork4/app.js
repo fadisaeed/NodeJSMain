@@ -1,3 +1,5 @@
+//פאדי סעיד
+//ראזי אבו אליונס
 const fs=require('fs');
 
 const namesArr = [
