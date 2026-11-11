@@ -1,0 +1,16 @@
+body
+{
+    background-color: aquamarine;
+}
+h1,h2
+{
+    color: rgb(31, 31, 189);
+    text-align: center;
+}
+img
+{
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin: auto;
+}
