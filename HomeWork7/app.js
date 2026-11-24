@@ -1,3 +1,5 @@
+//פאדי סעיד
+//ראזי אבו אליונס
 const express = require('express');
 const fs = require('fs');
 const users=JSON.parse(fs.readFileSync(`C:/Users/fadis/OneDrive/Desktop/nodejs-homework/NodeJSMain/HomeWork7/users.json`,`utf-8`));
